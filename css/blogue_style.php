@@ -228,6 +228,7 @@ header{
 }
 #header aside.social-links {
   position: fixed;
+  top: 0;
   margin-top: 200px;
   padding-left: 6.5px;
   width: 35px;
